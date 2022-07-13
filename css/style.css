@@ -1,0 +1,8 @@
+body{
+    background-image: url('../img/fondo.jpg');   
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
