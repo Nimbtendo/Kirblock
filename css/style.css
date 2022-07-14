@@ -1,8 +1,9 @@
-body{
-    background-image: url('../img/fondo.jpg');   
+#anim{
+    width: 1000px;
+    height: 300px;
+    margin-top: 10%;
 }
-header{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+body{
+    background-image: url('../images/fondo.jpg');
 }
